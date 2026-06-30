@@ -9,20 +9,16 @@
     <img height="32" src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
 
-  <!-- Email -->
-  <a href="mailto:cristalbg10@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img height="32" src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-
-  <!-- Phone -->
-  <a href="tel:673966466" target="_blank" rel="noopener noreferrer">
-    <img height="32" src="https://img.shields.io/badge/Phone-0F4C81?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;
-
-  <!-- Spotify -->
+  <!-- Spotify-->
   <a href="https://open.spotify.com/user/3144gbcnnfxndtpeybi2lsj3dryu" target="_blank" rel="noopener noreferrer">
-    <img height="32" src="https://img.shields.io/badge/Spotify-4169E1?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img height="32" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>&nbsp;
+
+<!-- Instagram (rojo) -->
+  <a href="https://instagram.com/_crisbg10" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
 
 </p>
 ---
