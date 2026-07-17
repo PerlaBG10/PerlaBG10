@@ -64,6 +64,25 @@
 
 ---
 
+## 📂 Proyectos
+
+### 💇 [StyleHair](https://github.com/PerlaBG10/StyleHair)
+Aplicación web enfocada en un salón de belleza que permite presentar servicios, estilos y facilitar la interacción con los clientes mediante una interfaz moderna e intuitiva Verme, EmailJS, etc.
+
+### 🚗 [ParqLink](https://github.com/PerlaBG10/Portafolio/tree/main/ParqLink)
+Sistema para la gestión y localización de espacios de estacionamiento, diseñado para optimizar la búsqueda de lugares disponibles Utilizando NFC, GoogleMaps, Google Wallet, etc.
+
+### 🎮 [Tetris](https://github.com/PerlaBG10/Portafolio/tree/main/Tetris)
+Versión del clásico juego Tetris desarrollada para practicar lógica de programación, interacción con el usuario y desarrollo frontend, para ANDROID.
+
+### 📝 [Blog Básico](https://github.com/PerlaBG10/Portafolio/tree/main/Blog%20B%C3%A1sico)
+Blog web con una interfaz sencilla y responsive para la publicación y organización de contenido.
+
+### 🗺️ [Guía de Mapas](https://github.com/PerlaBG10/Portafolio/tree/main/Guia%20de%20mapas)
+Aplicación que integra mapas interactivos para visualizar información geográfica y facilitar la exploración de ubicaciones, Utiliza GoogleMaps, RecycleViews, etc.
+
+---
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 </div>
