@@ -63,23 +63,40 @@
 </p>
 
 ---
+# 🚀 Mis Proyectos
 
-## 📂 Proyectos
+### 💇 StyleHair
+> Aplicación web desarrollada para un salón de belleza, enfocada en ofrecer una experiencia intuitiva para la gestión y presentación de servicios.
 
-### 💇 [StyleHair](https://github.com/PerlaBG10/StyleHair)
-Aplicación web enfocada en un salón de belleza que permite presentar servicios, estilos y facilitar la interacción con los clientes mediante una interfaz moderna e intuitiva Verme, EmailJS, etc.
+🔗 **Ver proyecto:** [StyleHair](https://github.com/PerlaBG10/StyleHair)
 
-### 🚗 [ParqLink](https://github.com/PerlaBG10/Portafolio/tree/main/ParqLink)
-Sistema para la gestión y localización de espacios de estacionamiento, diseñado para optimizar la búsqueda de lugares disponibles Utilizando NFC, GoogleMaps, Google Wallet, etc.
+---
 
-### 🎮 [Tetris](https://github.com/PerlaBG10/Portafolio/tree/main/Tetris)
-Versión del clásico juego Tetris desarrollada para practicar lógica de programación, interacción con el usuario y desarrollo frontend, para ANDROID.
+### 🚗 ParqLink
+> Plataforma diseñada para optimizar la búsqueda y administración de espacios de estacionamiento.
 
-### 📝 [Blog Básico](https://github.com/PerlaBG10/Portafolio/tree/main/Blog%20B%C3%A1sico)
-Blog web con una interfaz sencilla y responsive para la publicación y organización de contenido.
+🔗 **Ver proyecto:** [ParqLink](https://github.com/PerlaBG10/Portafolio/tree/main/ParqLink)
 
-### 🗺️ [Guía de Mapas](https://github.com/PerlaBG10/Portafolio/tree/main/Guia%20de%20mapas)
-Aplicación que integra mapas interactivos para visualizar información geográfica y facilitar la exploración de ubicaciones, Utiliza GoogleMaps, RecycleViews, etc.
+---
+
+### 🎮 Tetris
+> Recreación del clásico Tetris para demostrar habilidades en lógica, JavaScript y desarrollo de interfaces.
+
+🔗 **Ver proyecto:** [Tetris](https://github.com/PerlaBG10/Portafolio/tree/main/Tetris)
+
+---
+
+### 📝 Blog Básico
+> Sitio web tipo blog desarrollado con HTML, CSS y JavaScript, enfocado en un diseño limpio y responsive.
+
+🔗 **Ver proyecto:** [Blog Básico](https://github.com/PerlaBG10/Portafolio/tree/main/Blog%20B%C3%A1sico)
+
+---
+
+### 🗺️ Guía de Mapas
+> Aplicación web que integra mapas interactivos para visualizar información geográfica de forma sencilla.
+
+🔗 **Ver proyecto:** [Guía de Mapas](https://github.com/PerlaBG10/Portafolio/tree/main/Guia%20de%20mapas)
 
 ---
 
