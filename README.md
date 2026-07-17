@@ -15,7 +15,7 @@
   </a>&nbsp;
 
 <!-- Instagram (rojo) -->
-  <a href="https://instagram.com/_crisbg10" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/_crisbg10_/" target="_blank" rel="noopener noreferrer">
     <img height="32" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
