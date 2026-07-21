@@ -68,7 +68,7 @@
 ### 💇 StyleHair
 > Aplicación web desarrollada para un salón de belleza, enfocada en ofrecer una experiencia intuitiva para la gestión y presentación de servicios.
 
-🔗 **Ver proyecto:** [StyleHair](https://github.com/PerlaBG10/StyleHair)
+🔗 **Ver proyecto:** [StyleHair](https://github.com/PerlaBG10/StyleHair.git)
 
 ---
 
